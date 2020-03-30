@@ -1,0 +1,61 @@
+
+
+.bod {
+    margin-top: 100px;
+    background-color: white;
+    width: 70%;
+    margin-bottom: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 100%;
+
+      }
+h1 {
+
+padding-top: 80px;
+margin-left: 5%;
+width: 60%;
+font-size: 5vW;
+margin-bottom: 6px;
+}
+
+h2 {
+  font-size: 1.8vW;
+width: 60%;
+color: grey;
+display: inline-block;
+margin: 0px;
+  margin-left: 5%;
+ padding-bottom: 100px;
+    
+    
+    }
+
+
+    #SignUpButton {
+         cursor: url('http://www.rw-designer.com/cursor-extern.php?id=91234'), auto;
+      text-align: center;
+      width: 40%;
+
+      font-size: 1.5vW;
+      
+      margin-left: 10%;
+      display: block;
+      padding: 20px;
+      color: rebeccapurple;
+      border: 2px solid rebeccapurple;
+      border-radius: 40px;
+    margin-bottom: 40px;
+    }
+    #SignUpButton:hover {
+         cursor: url('http://www.rw-designer.com/cursor-extern.php?id=91234'), auto;
+background-color: rebeccapurple;
+color: white;
+    }
+
+#cupcakeImg {
+position: absolute;
+margin-top: -36%;
+margin-left: 55%;
+width: 30%;
+}
